@@ -1,0 +1,13 @@
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#f4fff4"/>
+  <rect x="40" y="40" width="720" height="370" rx="24" fill="#ffffff" stroke="#2f7a2f" stroke-width="6"/>
+  <text x="400" y="130" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#2f7a2f" text-anchor="middle">Plantsy Admin Panel</text>
+  <text x="400" y="200" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#4a4a4a" text-anchor="middle">View plants, add new items, mark sold out, and search.</text>
+  <rect x="140" y="250" width="160" height="140" rx="16" fill="#dcf8de" stroke="#9ad79a" stroke-width="4"/>
+  <rect x="330" y="250" width="160" height="140" rx="16" fill="#edf7ff" stroke="#8ebfe6" stroke-width="4"/>
+  <rect x="520" y="250" width="160" height="140" rx="16" fill="#fff0db" stroke="#e7c17a" stroke-width="4"/>
+  <text x="220" y="320" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2f7a2f" text-anchor="middle">Aloe</text>
+  <text x="410" y="320" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2f7a2f" text-anchor="middle">ZZ Plant</text>
+  <text x="600" y="320" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#ad5f08" text-anchor="middle">Sold Out</text>
+  <text x="400" y="410" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#4a4a4a" text-anchor="middle">Completed Plantsy interface screenshot</text>
+</svg>
